@@ -12,7 +12,6 @@ public class App
     	Gson gson = new Gson();
     	
     	System.out.println("adhvaith");
-    	System.out.print("hiya");
     	
         System.out.println( gson.toJson("Hello World!") );
     }
